@@ -1,0 +1,18 @@
+Main Commands
+============
+1==> For Knowing version
+    dotnet --info
+2==> For Knowing commands 
+    dotnet -h
+3==> For creating solution
+    dotnet new sln
+4==> For creating Api Project
+    dotnet new webapi -n ProjectNAme
+5==> To add api project into solution
+    dotnet sln add ProjectNAme
+
+6==>how to run Api project by cli==>Command line interface
+    1. right click on Api project
+    2. choose open integrated terminal 
+    3. dotnet run
+
